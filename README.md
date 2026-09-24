@@ -41,6 +41,9 @@ class mendefinisikan cetak biru atau karakteristik suatu objek. Karakteristik ob
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/efa9a109-8866-4b9a-8c65-9c7329f7d4ec" />
 Kelas data dirancang khusus untuk menyimpan data dan secara otomatis dilengkapi dengan fungsi berguna seperti .toString() untuk log, .equals() / == untuk perbandingan, dan .copy() untuk menduplikasi objek.
 
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/8748f7aa-ab60-4812-94eb-43c1b15ab7d8" />
+Kotlin mengharuskan deklarasi eksplisit dengan tanda ? jika sebuah variabel diperbolehkan menampung nilai null. Safe call (?.) mencegah error dengan mereturn null secara otomatis, sedangkan operator Elvis (?:) menetapkan nilai default apabila terdeteksi kondisi null.
+
 
 
 
