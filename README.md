@@ -49,3 +49,5 @@ Kotlin mengharuskan deklarasi eksplisit dengan tanda ? jika sebuah variabel dipe
 
 
 
+
+
